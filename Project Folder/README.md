@@ -29,7 +29,6 @@ $$\text{Python (Pandas / ETL)} \longrightarrow \text{SQL Database (Relational Ag
 ## 📊 Interactive Dashboard Preview
 > **[View the Interactive Tableau Dashboard Live Here](https://public.tableau.com/views/HotelRevenueAnalysis_17833518404500/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
-![Alternative text description]('/Users/dennistoppo/Desktop/Screenshot 2026-07-07 at 1.18.12 PM.png')
 
 ---
 
